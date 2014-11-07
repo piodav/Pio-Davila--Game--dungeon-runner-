@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.0">
+  <sounds />
+  <images>
+    <image name="gamesalad title">
+      <file name="gamesalad title.png" size="22650" />
+    </image>
+    <image name="arena">
+      <file name="arena.png" size="42973" />
+    </image>
+    <image name="Untitled">
+      <file name="Untitled.png" size="43384" />
+    </image>
+    <image name="game oevr">
+      <file name="game oevr.png" size="47762" />
+    </image>
+    <image name="bullet">
+      <file name="bullet.png" size="239" />
+    </image>
+    <image name="enemie">
+      <file name="enemie.png" size="523" />
+    </image>
+    <image name="enemie2">
+      <file name="enemie2.png" size="442" />
+    </image>
+    <image name="gun1">
+      <file name="gun1.png" size="584" />
+    </image>
+    <image name="gun2">
+      <file name="gun2.png" size="589" />
+    </image>
+    <image name="knife">
+      <file name="knife.png" size="255" />
+    </image>
+    <image name="player 2">
+      <file name="player 2.png" size="626" />
+    </image>
+    <image name="player1">
+      <file name="player1.png" size="621" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

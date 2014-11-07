@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.0" PGFVersion="0.19" title="My Great Project">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>7</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id450800" />
+    <actor id="id114936" />
+    <actor id="id483423" />
+    <actor id="id714217" />
+    <actor id="id907260" />
+    <actor id="id341004" />
+    <actor id="id975838" />
+    <actor id="id599496" />
+    <actor id="id884299" />
+    <actor id="id778185" />
+    <actor id="id587299" />
+    <actor id="id514911" />
+    <actor id="id592806" />
+    <actor id="id114544" />
+    <actor id="id301100" />
+    <actor id="id730870" />
+    <actor id="id617727" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id277608" />
+    <scene id="id116523" />
+    <scene id="id847044" />
+    <scene id="id271738" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+    <integer id="id681648" name="health">50</integer>
+    <integer id="id777288" name="kills">0</integer>
+    <integer id="id765545" name="enemie health">50</integer>
+  </attributes>
+</game>
